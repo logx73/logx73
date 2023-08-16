@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @logx73
 - 👀 I’m interested in software Development
-- 🌱 I’m currently learning data structures
 - 💞️ I’m looking to collaborate on the same
 - 📫 How to reach me lokeshgadiya177@gmail.com
